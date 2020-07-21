@@ -2,5 +2,5 @@ Data Peserta Sanbercode Bootcamp Reactjs
 1.Name: Aditya Warman
 2.Email: miloadit@gmail.com
 3.Sistem Operasi: Windows 10
-4.Akun Github : aditya1999warman
+4.Akun Github : aditya199warman
 5.Akun Telegram: Aditya Warman
