@@ -19,14 +19,12 @@ console.log(`Keliling lingkaran : ${keliling}`);
  Soal 2
  arrow function tambahKalimat
 */ 
-let kalimat = ''
-
 const tambahKalimat = (kata1, kata2, kata3, kata4, kata5) => {
-    return kalimat = `${kata1} ${kata2} ${kata3} ${kata4} ${kata5}`
+    let kalimat = ''
+    kalimat = `${kata1} ${kata2} ${kata3} ${kata4} ${kata5}`
+    console.log(kalimat)
 }
 tambahKalimat(`saya`, `adalah`, `seorang`, `frontend`, `developer`);
-console.log(kalimat)
-
 
 /*
  Soal 3
