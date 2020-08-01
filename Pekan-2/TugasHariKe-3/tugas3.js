@@ -3,7 +3,7 @@
  membuat arrow function untuk luas keliling dan keliling lingkaran 
 */ 
 
-const luasLingkaran = (d) => {
+let luasLingkaran = (d) => {
     return `${d/2} cm`
 }
 let luas = luasLingkaran(20)
