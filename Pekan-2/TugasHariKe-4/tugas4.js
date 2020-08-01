@@ -33,5 +33,5 @@ const west = ["Will", "Chris", "Sam", "Holly"]
 const east = ["Gill", "Brian", "Noel", "Maggie"]
 
 // Melakukan penggabungan array dengan Spread operator
-const combineArray = [...west, ...east]
+let combineArray = [...west, ...east]
 console.log(combineArray)
